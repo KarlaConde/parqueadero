@@ -1,4 +1,4 @@
-# parqueadero
+# Reconocimiento de espacios vacíos en un parqueadero
 Librerias necesarias 
 pip install opencv-python
 pip install numpy
